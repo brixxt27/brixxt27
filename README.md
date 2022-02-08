@@ -1,16 +1,17 @@
-### Hi there 👋
+# 42_jayoon 😉
 
-<!--
-**brixxt27/brixxt27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=brixxt27)](https://solved.ac/brixxt27)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brixxt27)](https://github.com/anuraghazra/github-readme-stats)
+
+### Who Am I
+- 📕 I studying computer science.
+
+### Experience
+- 🔥 42 seoul (2021.11.08 ~ now)
+
+### What I Like
+- 🎤 sing a song
