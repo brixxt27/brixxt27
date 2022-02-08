@@ -12,7 +12,7 @@
 
 
 ### Who Am I
-- 📕 I studying computer science.
+- 📕 I study computer science.
 
 ### Experience
 - 🔥 42 seoul (2021.11.08 ~ now)
