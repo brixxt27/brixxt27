@@ -1,7 +1,5 @@
 # jayoon 😉
 
-## 42 Seoul_Cursus
-[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/jayoon?privacyName=true)](https://github.com/JaeSeoKim/badge42)
           
 ## Github
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brixxt27)](https://github.com/anuraghazra/github-readme-stats)
