@@ -11,10 +11,6 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=brixxt27)](https://solved.ac/brixxt27)
 
-[![Solved.ac
-프로필](https://mazandi.herokuapp.com/api?handle=brixxt27&theme=warm)](https://solved.ac/brixxt27)
-
-
 ### Who Am I
 - 📕 I study computer science.
 
