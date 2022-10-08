@@ -1,5 +1,7 @@
 # jayoon 😉
 
+## 42Seoul
+[![jayoon's 42 stats](https://badge42.vercel.app/api/v2/cl905z90f00160gmi8m06hmuh/stats?cursusId=21&coalitionId=86)](https://github.com/JaeSeoKim/badge42)
           
 ## Github
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brixxt27)](https://github.com/anuraghazra/github-readme-stats)
