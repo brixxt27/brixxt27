@@ -7,6 +7,11 @@
 ## LeetCode
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=jayoon)](https://github.com/madushadhanushka/github-readme)
 -->
+
+## 개인 블로그
+[1. Tistory blog](https://guidey.tistory.com/)
+
+[2. Notion 개인 공부 자료 저장소](https://jayoon.notion.site/jayoon-a33394f88eea427c8567ccab3b5a03d6?pvs=4)
           
 ## Github
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brixxt27)](https://github.com/anuraghazra/github-readme-stats)
