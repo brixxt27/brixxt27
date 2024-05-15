@@ -23,10 +23,8 @@
 ### Who Am I
 - 📕 I study computer science.
 
-<!-- 마크다운으로 주석 처리 가능
 ### Experience
 - 🔥 42 seoul (2021.11.08 ~ now)
- -->
 
 ### What I Like
-- 🎤 sing a song
+- 🎤 Singing
